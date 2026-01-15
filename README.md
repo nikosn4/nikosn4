@@ -37,7 +37,6 @@ I enjoy solving technical problems and building practical, real-world applicatio
 <h3>📱 Mobile & Security</h3>
 <ul>
   <li>Android OS troubleshooting & configuration</li>
-  <li>Antivirus tools & data protection basics</li>
 </ul>
 
 <hr>
@@ -45,7 +44,6 @@ I enjoy solving technical problems and building practical, real-world applicatio
 <h2>📂 Projects</h2>
 <ul>
   <li><b>Full-Stack Task Manager App</b> – Multi-user system with encrypted authentication</li>
-  <li><b>Professional E-Shop</b> – Functional e-commerce platform</li>
   <li><b>Full-Stack Weather App</b> – Real-time weather data application</li>
 </ul>
 
