@@ -1,6 +1,6 @@
 ## Hi there, wellcome to my GitHub Profile 
 
-<h1 align="center">Hi 👋, I'm Nikos Niforas</h1>
+<h1 align="center">Hi , I'm Nikos Niforas</h1>
 <h3 align="center">Computer Science Student | Full-Stack Developer | Tech Support Enthusiast</h3>
 
 <hr>
@@ -18,9 +18,9 @@ I enjoy solving technical problems and building practical, real-world applicatio
 
 <hr>
 
-<h2>🧰 Technical Skills</h2>
+<h2> Technical Skills</h2>
 
-<h3>💻 Systems & Tools</h3>
+<h3> Systems & Tools</h3>
 <ul>
   <li>Windows OS (installation, troubleshooting, user management)</li>
   <li>Microsoft Office Suite & Office 365 administration</li>
@@ -32,11 +32,6 @@ I enjoy solving technical problems and building practical, real-world applicatio
   <li>Front-end & Back-end development</li>
   <li>Database design & basic data analysis</li>
   <li>User authentication & encryption concepts</li>
-</ul>
-
-<h3>📱 Mobile & Security</h3>
-<ul>
-  <li>Android OS troubleshooting & configuration</li>
 </ul>
 
 <hr>
