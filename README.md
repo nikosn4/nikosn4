@@ -27,7 +27,7 @@ I enjoy solving technical problems and building practical, real-world applicatio
   <li>Basic Networking (LAN / Wi-Fi, IP configuration)</li>
 </ul>
 
-<h3>🌐 Development</h3>
+<h3> Development</h3>
 <ul>
   <li>Front-end & Back-end development</li>
   <li>Database design & basic data analysis</li>
@@ -36,7 +36,7 @@ I enjoy solving technical problems and building practical, real-world applicatio
 
 <hr>
 
-<h2>📂 Projects</h2>
+<h2> Projects</h2>
 <ul>
   <li><b>Full-Stack Task Manager App</b> – Multi-user system with encrypted authentication</li>
   <li><b>Full-Stack Weather App</b> – Real-time weather data application</li>
@@ -44,7 +44,7 @@ I enjoy solving technical problems and building practical, real-world applicatio
 
 <hr>
 
-<h2>🧠 Soft Skills</h2>
+<h2> Soft Skills</h2>
 <ul>
   <li>Strong communication & interpersonal skills</li>
   <li>Problem-solving & analytical thinking</li>
@@ -54,7 +54,7 @@ I enjoy solving technical problems and building practical, real-world applicatio
 
 <hr>
 
-<h2>🌍 Languages</h2>
+<h2> Languages</h2>
 <ul>
   <li>English — Fluent</li>
   <li>French — Intermediate</li>
@@ -62,11 +62,3 @@ I enjoy solving technical problems and building practical, real-world applicatio
 
 <hr>
 
-<h2>📫 Contact</h2>
-<p>
-📧 Email: <a href="mailto:nfr.nick@gmail.com">nfr.nick@gmail.com</a>
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
