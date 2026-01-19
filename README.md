@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nikos Niforas</h1>
 <p align="center">
-Computer Science Student · Full-Stack Devel enthusiast 
+Computer Science Student · Full-Stack Development enthusiast 
 </p>
 
 <hr>
